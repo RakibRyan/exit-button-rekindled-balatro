@@ -1,9 +1,9 @@
 --- STEAMODDED HEADER
 --- MOD_NAME: Exit Button
---- MOD_ID: ExitButton
---- PREFIX: exitbtn
+--- MOD_ID: rkndl2_ExitButton
+--- PREFIX: rkndl2_exitbtn
 --- VERSION: 1.0.0
---- MOD_AUTHOR: [Ryan]
+--- MOD_AUTHOR: [infarctus, Ryan]
 --- MOD_DESCRIPTION: Adds an Exit Game button to the options menu
 
 -- G.FUNCS assignments remain the standard for UI callbacks in SMODS 1.0
